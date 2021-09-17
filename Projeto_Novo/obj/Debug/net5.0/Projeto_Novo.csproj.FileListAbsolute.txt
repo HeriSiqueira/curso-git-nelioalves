@@ -1,0 +1,16 @@
+C:\ws-vs2019.2021\Projeto_Novo\Projeto_Novo\bin\Debug\net5.0\Projeto_Novo.exe
+C:\ws-vs2019.2021\Projeto_Novo\Projeto_Novo\bin\Debug\net5.0\Projeto_Novo.deps.json
+C:\ws-vs2019.2021\Projeto_Novo\Projeto_Novo\bin\Debug\net5.0\Projeto_Novo.runtimeconfig.json
+C:\ws-vs2019.2021\Projeto_Novo\Projeto_Novo\bin\Debug\net5.0\Projeto_Novo.runtimeconfig.dev.json
+C:\ws-vs2019.2021\Projeto_Novo\Projeto_Novo\bin\Debug\net5.0\Projeto_Novo.dll
+C:\ws-vs2019.2021\Projeto_Novo\Projeto_Novo\bin\Debug\net5.0\ref\Projeto_Novo.dll
+C:\ws-vs2019.2021\Projeto_Novo\Projeto_Novo\bin\Debug\net5.0\Projeto_Novo.pdb
+C:\ws-vs2019.2021\Projeto_Novo\Projeto_Novo\obj\Debug\net5.0\Projeto_Novo.csproj.AssemblyReference.cache
+C:\ws-vs2019.2021\Projeto_Novo\Projeto_Novo\obj\Debug\net5.0\Projeto_Novo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2019.2021\Projeto_Novo\Projeto_Novo\obj\Debug\net5.0\Projeto_Novo.AssemblyInfoInputs.cache
+C:\ws-vs2019.2021\Projeto_Novo\Projeto_Novo\obj\Debug\net5.0\Projeto_Novo.AssemblyInfo.cs
+C:\ws-vs2019.2021\Projeto_Novo\Projeto_Novo\obj\Debug\net5.0\Projeto_Novo.csproj.CoreCompileInputs.cache
+C:\ws-vs2019.2021\Projeto_Novo\Projeto_Novo\obj\Debug\net5.0\Projeto_Novo.dll
+C:\ws-vs2019.2021\Projeto_Novo\Projeto_Novo\obj\Debug\net5.0\ref\Projeto_Novo.dll
+C:\ws-vs2019.2021\Projeto_Novo\Projeto_Novo\obj\Debug\net5.0\Projeto_Novo.pdb
+C:\ws-vs2019.2021\Projeto_Novo\Projeto_Novo\obj\Debug\net5.0\Projeto_Novo.genruntimeconfig.cache
